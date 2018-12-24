@@ -1,7 +1,3 @@
-#Raunak Srikant Mokhasi
-#2017085
-#Section A - Group 5
-
 from a2 import *
 
 global tile1,tile2,tile3,tile4,tile5,tile6,tile7,tile8,tile9
