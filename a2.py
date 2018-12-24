@@ -1,8 +1,3 @@
-#Raunak Srikant Mokhasi
-#2017085
-#Section A - Group 5
-
-
 import random 
 
 
